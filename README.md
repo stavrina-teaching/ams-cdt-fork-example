@@ -4,7 +4,7 @@
 
 1. Fork this repository on GitHub
 2. Clone your fork locally
-3. Try one of these
+3. Try making one of these changes to the repository locally
    1. Make a new file on `main`
    2. Create a new branch and add a new file
    3. Make changes to the [example file](./example.md)
