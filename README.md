@@ -12,3 +12,4 @@
 6. Commit those changes
 7. Push those changes to remote
 8. Create a pull request from your fork to the original repo to merge those changes to `main`
+9. Just for fun add a line
